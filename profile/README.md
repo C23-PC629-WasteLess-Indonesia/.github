@@ -20,7 +20,8 @@ Hi, we're a team consist of 6 members from Indonesia in Bangkit 2023 Batch I. We
 
 ## Our Repositories
 1. [Food-Recommendation-Endpoint](https://github.com/C23-PC629-WasteLess-Indonesia/Food-Recommendation-Endpoint) <br> An endpoint of food recommendation for our app.
-<p align="right"> No More Waste for the Future! <br> - C23-PC629. </p>
 
 ## Application Architecture
 ![Architecture-Cloud-Design](https://github.com/C23-PC629-WasteLess-Indonesia/.github/assets/69002518/e27d16b5-8cb1-490f-b3a5-02031e0fe9e5)
+
+<p align="right"> No More Waste for the Future! <br> - C23-PC629. </p>
